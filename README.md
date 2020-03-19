@@ -11,7 +11,7 @@ See the [ARGear Android Docs](//docs.argear.io/android/api-in-detail).
 ## Sample Codes
 
 You can start with sample [java codes](//github.com/argear/argear-android-sample/tree/master/sample-java)
-or [kotlin codes](//github.com/argear/argear-android-sample/tree/master/sample-kotlin)
+or [kotlin codes](//github.com/argear/argear-android-sample/tree/master/sample-kotlin) or even [kotlin codes for ARCore](//github.com/argear/argear-android-sample/tree/master/sample-arcore)
 
 ## Sample App on Playstore
 
